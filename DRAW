@@ -1,0 +1,3 @@
+#!/bin/bash
+gedit Graph.java &
+javac *.java && java GraphMaker
